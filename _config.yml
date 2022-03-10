@@ -39,8 +39,9 @@ baseurl: "/kareemnegm" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: Kareem_negm1
+    github: Kareem-Negm
+    Kaggle: kareem3egm
 
 # Set this to true to get LaTeX math equation support
 use_math: 
