@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: تعلم فيما يستهدم Amazon Kinesis.
 categories: [markdown]
-title: An Example Markdown Post
+title: Amazon Kinesis بالعربي احلا part 1
 comments: true
 image: images/Amazon-Kinesis.png
 ---
