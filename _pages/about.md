@@ -5,4 +5,4 @@ permalink: /about/
 ---
 Hello this is Kareem Negm , I am Happy to see you here 👋
 
-![]({{site.baseurl}}/images/personalphoto.jpg "https://github.com/fastai/fastpages")
+![](https://github.com/Kareem-negm/kareemnegm/blob/master/images/personalphoto.jpg)
