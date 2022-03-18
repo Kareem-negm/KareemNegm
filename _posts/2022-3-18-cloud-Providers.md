@@ -8,6 +8,8 @@ comments: true
 image: images/Avenga-magazine-Cloud-service-providers-comparison.png
 ---
 
+# Top Cloud Service Providers in Google Trends
+
 في حوالي 7 شركات عملاقه بتوفرلنا  الخدمات السحابيه و البتعتد عليهم اغلب شركات العالم البتستخدم الحوسبه السحابيه و الشركات دي هي : 
 - AWS
 - Microsoft Azure 
@@ -19,11 +21,11 @@ image: images/Avenga-magazine-Cloud-service-providers-comparison.png
 
 بعد تحليل سريع علي Google Trens ممكن من خلاله نقدر نحدد اي الشركات دي هي الاكثر شعبيه 
 
-![Image description](master/images/google-trends.png)
+![Image description](https://www.avenga.com/wp-content/uploads/2021/05/image1-1024x555.png)
 
 من التحليل هنلاحظ ان من اول ما ظهر الكلاود حتي الان فالمسيطر الاكبر عليه هو AWS , وخلال  السنوات الاخيره بقي في منافسه كبيره مع Azure لكن لا زال AWS هو اكبر مزود خدمات سحابيه في العالم 
 
-# نيجي بقي علي المقارنة 
+# المقارنة بين الشركات السحابيه الاكبر بالعالم
 
 في المقارنة دي هنقارن بين ال7 الكبار بالترتيب ال ذكرناه فوق و هنقارن بينهم كالتلاتي :
 
